@@ -245,4 +245,4 @@ This repository serves as the official landing page for EVE Online. The software
 **Get the most recent version of EVE Online today!**
 
 ---
-**Last updated:** 2026-10-06 21:19:14 UTC
+**Last updated:** 2026-10-07 01:03:53 UTC
